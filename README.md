@@ -1,13 +1,13 @@
 # Deployment fun
 
 ## About
-* get yourself a nodejs runtime
-* install dependencies with `npm ci`
-* run with `npm start`
+* get yourself a nodejs runtime // done
+* install dependencies with `npm ci` // done
+* run with `npm start` // tested
 
 ## Task 1
-* fork repo to your own github
-* create yourself a Heroku account
+* fork repo to your own github // done in summer 2021
+* create yourself a Heroku account // done in summer 2021
 * initiate deployment of the repo using pipelines into newly created free Heroku app
 * initiate Heroku pipelines, enable Review Apps
 * create a PR which will automatically set FUN environment variable
