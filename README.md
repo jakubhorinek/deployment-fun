@@ -8,7 +8,7 @@
 ## Task 1
 * fork repo to your own github // done in summer 2021
 * create yourself a Heroku account // done in summer 2021
-* initiate deployment of the repo using pipelines into newly created free Heroku app // in progress 
+* initiate deployment of the repo using pipelines into newly created free Heroku app // done in summer 2021, set up again in 1/2022
 * initiate Heroku pipelines, enable Review Apps
 * create a PR which will automatically set FUN environment variable
 
