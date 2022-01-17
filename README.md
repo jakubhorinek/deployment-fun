@@ -13,7 +13,7 @@
 * create a PR which will automatically set FUN environment variable set up in heroku app settings (FUN=FUN)
 
 ## Task 2
-* initiate any kind of CI (GitHub Actions, CircleCI, ..), anything which can be connected to a GitHub
+* initiate any kind of CI (GitHub Actions, CircleCI, ..), anything which can be connected to a GitHub // let's go with GitHub Actions
 * initiate CI process - let it download dependencies, run dummy test, create deployment tarball
 * utilize Ansible to initiate and deploy a machine - your local one (you can use vagrant with virtualbox, or use AWS free tier credits or any other kind of free cloud services)
 * ideally, if using cloud, let the ansible deploy from the CI to the machine on e.g. `deploy` branch push
