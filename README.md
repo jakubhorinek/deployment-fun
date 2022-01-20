@@ -1,4 +1,4 @@
-# Deployment fun  // testicko git commit
+# Deployment fun
 
 ## About
 * get yourself a nodejs runtime // done
