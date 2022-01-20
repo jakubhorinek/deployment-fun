@@ -1,4 +1,4 @@
-# Deployment fun 
+# Deployment fun
 
 ## About
 * get yourself a nodejs runtime // done
