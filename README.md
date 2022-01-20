@@ -1,4 +1,4 @@
-# Deployment fun AA
+# Deployment fun
 
 ## About
 * get yourself a nodejs runtime // done
@@ -10,7 +10,7 @@
 * create yourself a Heroku account // done in summer 2021
 * initiate deployment of the repo using pipelines into newly created free Heroku app // done in summer 2021, set up again in 1/2022
 * initiate Heroku pipelines, enable Review Apps // done in summer 2021, set up again in 1/2022
-* create a PR which will automatically set FUN environment variable set up in heroku app settings (FUN=FUN)
+* create a PR which will automatically set FUN environment variable set up in heroku app settings // done (FUN=FUN)
 
 ## Task 2
 * initiate any kind of CI (GitHub Actions, CircleCI, ..), anything which can be connected to a GitHub // let's go with GitHub Actions
