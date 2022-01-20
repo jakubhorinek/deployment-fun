@@ -19,6 +19,6 @@ jobs:
           docker-username: DOCKER_LOGIN 
 
 workflows:
-  example-workflow:
+  test_docker_credentials:
     jobs:
       - example-job
