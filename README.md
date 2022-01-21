@@ -5,8 +5,6 @@
 * install dependencies with `npm ci` // done
 * run with `npm start` // tested
 
-heheh 
-
 ## Task 1
 * fork repo to your own github // done in summer 2021
 * create yourself a Heroku account // done in summer 2021
@@ -25,3 +23,6 @@ heheh
 * create a docker-compose.yml somewhere which will run this image, it's version being parametrized ideally by build number, or commit sha
 * if you use CircleCI for this task, you can utilize `cci-pingu` (git)[https://github.com/salsita/cci-pingu] (npm)[https://www.npmjs.com/package/cci-pingu] node module to easily handle the deployment for you (global installation with `sudo npm install -g cci-pingu`)
 * use certbot, to utilize Letsencrypt to generate an HTTPs certificate for the app in docker (server is required) with nginx routing it - either system nginx or (if your DNS provider is integrated) another docker image which will handle the certbot/letsencrypt tooling for you
+
+## Sources
+https://www.youtube.com/watch?v=0v5K4GvK4Gs // vtipny slovacik na git, mnam
