@@ -5,8 +5,6 @@
 * install dependencies with `npm ci` // done
 * run with `npm start` // tested
 
---letstestheroku
-
 ## Task 1
 * fork repo to your own github // done in summer 2021
 * create yourself a Heroku account // done in summer 2021
@@ -28,3 +26,6 @@
 
 ## Sources
 https://www.youtube.com/watch?v=0v5K4GvK4Gs // vtipny slovacik na git, mnam
+
+
+// test hehe
