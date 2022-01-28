@@ -28,4 +28,6 @@
 https://www.youtube.com/watch?v=0v5K4GvK4Gs // vtipny slovacik na git, mnam
 
 
+
 // is this still alive?
+
