@@ -28,4 +28,4 @@
 https://www.youtube.com/watch?v=0v5K4GvK4Gs // vtipny slovacik na git, mnam
 
 
-// let's get this ready
+// let's get this ready for docker
