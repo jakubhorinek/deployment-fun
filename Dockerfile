@@ -1,0 +1,5 @@
+FROM node
+
+ENV FUN=FUN
+
+CMD 
