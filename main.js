@@ -3,7 +3,7 @@ const app = express()
 const port = process.env.PORT || 3000
 
 app.get('/', (req, res) => {
-  res.send(`Hello Deployer, //having ${process.env.FUN}!`)
+  res.send(`Hello Deployer, --having ${process.env.FUN}!`)
 })
 
 app.listen(port, () => {
